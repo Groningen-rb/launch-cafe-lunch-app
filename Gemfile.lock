@@ -1,0 +1,17 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bubble-wrap (1.1.5)
+    motion-addressbook (1.0.0)
+      bubble-wrap
+    rake (10.0.3)
+    teacup (1.2.8)
+      rake
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bubble-wrap
+  motion-addressbook
+  teacup
