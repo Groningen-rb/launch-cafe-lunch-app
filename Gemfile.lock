@@ -4,6 +4,7 @@ GEM
     bubble-wrap (1.1.5)
     motion-addressbook (1.0.0)
       bubble-wrap
+    motion-testflight (1.4)
     rake (10.0.3)
     teacup (1.2.8)
       rake
@@ -14,4 +15,5 @@ PLATFORMS
 DEPENDENCIES
   bubble-wrap
   motion-addressbook
+  motion-testflight
   teacup
